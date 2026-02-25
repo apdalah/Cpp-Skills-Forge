@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="unique_ptr.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="shared_ptr.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="weak_ptr.cpp">
+    <ClCompile Include="ProblemSolving.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

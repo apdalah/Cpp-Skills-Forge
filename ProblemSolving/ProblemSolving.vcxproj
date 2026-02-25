@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{98d8ef9f-9477-4e47-b1cf-c4e3e290b72c}</ProjectGuid>
-    <RootNamespace>SmartPointers</RootNamespace>
+    <ProjectGuid>{53a0f9a9-1ea8-4083-921f-67350dc12350}</ProjectGuid>
+    <RootNamespace>ProblemSolving</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,9 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="shared_ptr.cpp" />
-    <ClCompile Include="unique_ptr.cpp" />
-    <ClCompile Include="weak_ptr.cpp" />
+    <ClCompile Include="ProblemSolving.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
